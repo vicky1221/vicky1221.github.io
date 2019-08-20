@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/vicky1221/vicky1221.github.io/raw/master/weChat_1.ipa</string>
+					<string>http://10.26.36.172:92/qingke_ios/build/ClassMate.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tongxue.qingketeacher</string>
+				<string>com.tongxue.qingkeadc</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>WeChat1</string>
+				<string>轻课_dev</string>
 			</dict>
 		</dict>
 	</array>
